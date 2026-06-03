@@ -1,0 +1,15 @@
+
+.main-title {
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+  margin: 20px 0;
+}
+
+@media (max-width: 768px) {
+  .main-title {
+    font-size: 18px;
+    padding: 0 10px;
+    margin: 15px 0;
+  }
+}
